@@ -10,7 +10,7 @@ function checkPrime(num){
 	}
 	return false;
 }
-let ans = checkPrime(13);
-if(ans==true){ console.log("prime");}
+let answer = checkPrime(13);
+if(answer==true){ console.log("prime");}
 else{
 console.log("Not Prime");}
